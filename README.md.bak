@@ -1,8 +1,8 @@
 # zabbix_templates
 
-Template for Fujitsu_PRIMERGY_CX2560 SNMP_v3
+Template for _Fujitsu_PRIMERGY_CX2560_ _SNMP_v3_
 
-Work with zabbix v3.4
+Work with zabbix _v3.4_
 
   Read:
 * Read Temperature
