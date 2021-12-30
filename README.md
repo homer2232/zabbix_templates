@@ -14,3 +14,4 @@ Macros:
 * {$FAN_SPEED_LIMIT} - default 5000
 * {$SNMP_USER} - **_enter your pass_**
 * {$SNMP_PASS} - **_enter your login_**
+//ku
