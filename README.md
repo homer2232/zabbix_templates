@@ -12,5 +12,5 @@ Read:
 
 Macros:
 * {$FAN_SPEED_LIMIT} - default 5000
-* {$SNMP_USER} - enter your pass
-* {$SNMP_PASS} - enter your login
+* {$SNMP_USER} - _enter your pass_
+* {$SNMP_PASS} - _enter your login_
