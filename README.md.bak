@@ -1,5 +1,7 @@
 # zabbix_templates
 
+Template for Fujitsu_PRIMERGY_CX2560 SNMP_v3
+
   Read:
 * Read Temperature
 * Read System Voltage
